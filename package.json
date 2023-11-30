@@ -311,10 +311,10 @@
     },
     "dependencies": {
         "abl-tmlanguage": "github:chriscamicas/abl-tmlanguage",
-        "glob": "^7.1.6",
+        "glob": "^9.0.0",
         "jsonminify": "^0.4.1",
         "minimatch": "^3.0.4",
-        "rimraf": "^3.0.1",
+        "rimraf": "^4.0.0",
         "util.promisify": "^1.0.1",
         "@vscode/debugadapter": "^1.51.1",
         "@vscode/debugprotocol": "^1.51.0",

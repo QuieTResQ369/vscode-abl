@@ -314,7 +314,7 @@
         "glob": "^7.1.6",
         "jsonminify": "^0.4.1",
         "minimatch": "^3.0.4",
-        "rimraf": "^3.0.1",
+        "rimraf": "^4.3.1",
         "util.promisify": "^1.0.1",
         "@vscode/debugadapter": "^1.51.1",
         "@vscode/debugprotocol": "^1.51.0",
